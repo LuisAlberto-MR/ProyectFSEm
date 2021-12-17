@@ -9,4 +9,6 @@ En este repositorio se encuentran todos los archivos requeridos para la creació
 * Montoya Pérez Héctor
 
 ### Contacto
+lizbeth.alejandro@ingenieria.unam.edu
+luis.mendoza@ingenieria.unam.edu
 montoya.hector@comunidad.unam.mx
