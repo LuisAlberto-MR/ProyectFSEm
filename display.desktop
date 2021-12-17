@@ -1,0 +1,4 @@
+
+[Desktop Entry]
+Name=consola
+Exec=/usr/bin/python3 /etc/FinalGame/consola.py
