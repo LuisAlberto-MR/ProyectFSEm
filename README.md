@@ -8,7 +8,7 @@ En este repositorio se encuentran todos los archivos requeridos para la creació
 * Mendoza Rodríguez Luis Alberto
 * Montoya Pérez Héctor
 
-### Contacto
-### lizbeth.alejandro@ingenieria.unam.edu
-### luis.mendoza@ingenieria.unam.edu
-### montoya.hector@comunidad.unam.mx
+## Contacto
+#### lizbeth.alejandro@ingenieria.unam.edu
+#### luis.mendoza@ingenieria.unam.edu
+#### montoya.hector@comunidad.unam.mx
